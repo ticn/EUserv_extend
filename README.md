@@ -13,7 +13,7 @@
 
 ```
 USERNAME: 你的EUserv账户邮箱或Customer ID,第二个账户
-PASSWORD: 第一个账户密码,第二个账户密码
+PASSWORD: 第一个账户密码,第二个账户密码.
 ```
 
 2、设置好环境变量后点击你的仓库上方的 Actions 选项，点击 `I understand...` 按钮确认在 Fork 的仓库上启用 GitHub Actions 
